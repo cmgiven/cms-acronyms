@@ -1,12 +1,8 @@
-﻿acronym,definition
+acronym,definition
 4I,4 Innovation (System)
-A-PT,Action-Phase Topic
-A/P,Accounts Payable
-A/R,Applicant and/or Recipient
 A&AS,Advisory and Assistance Service
-A&G,Acquisitions and Grants
 A&G,Administrative and General
-A&R,Audit and Reimbursement
+A-PT,Action-Phase Topic
 A109,"OMB Circular ""Major Systems Acquisitions (ADP)"""
 A121,"OMB Circular ""Charge Back for ADP Services Provided to Multiple Users"""
 A130,"OMB Circular ""Management of Federal Information Resources"""
@@ -90,8 +86,6 @@ ACR,American College of Radiology
 ACRG,Annual Compound Rate of Growth
 ACRP,Adjusted Community Rate Proposal
 ACRS,Accelerated Cost Recovery System
-ACS,Accredited Standards Committee
-ACS,American Cancer Society
 ACS,American College of Surgeons
 ACS,Automated Cartridge System
 ACSC,Ambulatory Care Sensitive Conditions
@@ -104,7 +98,6 @@ ACU,Automatic Calling Unit
 ACV,Arithmetic Coefficient of Variation
 ACYF,"Administration on Children, Youth and Families"
 AD,Admitting Diagnosis
-ADA,American Dental Association
 ADA,American Dietetic Association
 ADA,Americans with Disabilities Act of 1990
 ADAD,After Date of Award Document
@@ -122,13 +115,10 @@ ADMC,Advance Determination of Medicare Coverage
 ADMS,Administrative Message
 ADMS,"Alcohol, Drug Abuse and Mental Health Services"
 ADOBI,Advanced DOB Information (System) (SSA)
-ADP,(Medicaid) Alternative Disposition Plan
 ADP,Advance Planning Document
 ADP,Automated Data Processing
 ADR,Alternative Dispute Resolution (EEO)
 ADR,Automated Date Review
-ADS,Alternative Delivery System
-ADS,"Amount, Duration and Scope"
 ADS,Automated Data System
 ADS,Automated Development System
 ADSB,Application Development System Batch
@@ -136,7 +126,6 @@ ADSO,Application Development System Online
 ADT,Admission-Discharge-Transfer
 ADWOH,Average Day's Work On Hand
 AE,Administrative Enhancement
-AEP,Annual Coordinated Election Period
 AEP,Annual Enrollment Period
 AEP,Appropriateness Evaluation Period
 AERO,Automatic Earnings Recomputation Operation (MBR)
@@ -164,8 +153,6 @@ AHCA,American Health Care Association
 AHES,Average Hourly Earnings
 AHFSA,Association of Health Facility Survey Agencies
 AHIMA,American Health Information Management Association
-AHP,Accountable Health Partnership
-AHP,Accountable Health Plan
 AHP,Alternative Health Plan
 AHP,Average Historical Payment
 AHPA,American Health Planning Association
@@ -191,7 +178,6 @@ AIPBP,All-Inclusive Population-Based Payment
 AIR,All-Inclusive Rate
 AKF,American Kidney Fund
 ALBN,Amount of Last Billing Notice
-ALC,Active License Counter
 ALC,Active Location Counter
 ALC,Alternate Level of Care
 ALE,Annual Loss Expectancy
@@ -232,7 +218,6 @@ ANSCII,American National Standard Code for Information Interchange
 ANSI,American National Standards Institute
 ANSI X12 837,American National Standards Institute Health Data Committee X12 file format 837
 AO,Accreditation Organization
-AOA,Administration on Aging
 AOA,American Optometric Association
 AOA,American Osteopathic Association
 AOLS,All Other Local Screens
@@ -242,13 +227,9 @@ AOR,After Outliers Removed
 AOR,Application Owning Region
 AP,Acquisition Plan
 AP,Award Processing
-APA,Administrative Program Accounting
 APA,American Pharmaceutical Association
 APA,American Psychiatric Association
 APACHE,Acute Physiology and Chronic Health Evaluation
-APC,Advanced Primary Care
-APC,Ambulatory Payment Class
-APC,Ambulatory Payment Classification
 APC,Average Per Capita
 APC,Average Projected Costs
 APCSS,Automated Production Control and Scheduling System (at HDC)
@@ -263,7 +244,6 @@ APHP,Acute Partial Hospitalization Program
 APHP,Applied as Hospital Insurance Premiums
 APHSA,American Public Human Services Association
 API,Application Programming Interface
-APM,Admission Pattern Monitoring
 APM,Alternative Payment Model
 APM,Audit Priority Matrix
 APMA,American Podiatric Medical Association
@@ -273,15 +253,10 @@ APP,Application Portability Profile
 APPC,Advanced Program-to-Program Communication
 APPS,(GHP) Automated Plan Payment System
 APPS,Automated Plan Payment System
-APR,Acquisition Procurement Request
 APR,Agency Procurement Request
 APR,Average Payment Rate
 APR - DRG,All Payer Refined - Diagnosis Related Groups
 APRN,Advanced Practice Registered Nurse
-APS,Acquisition Planning Schedule
-APS,Acute Physiology Score
-APS,Adjudication Payment System
-APS,Advanced Provider Screening
 APS,Annual Person Summary System
 APS,Application Productivity System
 APSA,American Political Science Association
@@ -294,7 +269,6 @@ AQRP,Audit Quality Review Program
 AR,Accounts Receivable
 AR,Alpha Representation
 ARA,Associate Regional Administrator
-ARC,AIDS Related Complex
 ARC,American Red Cross
 ARC,Association for Retarded Citizens
 ARCS,Accounts Receivable and Collection System
@@ -307,11 +281,6 @@ ARMS,Adhoc Reports Management System
 ARMS,Automated Resource Management System
 ARO,Annualized Rate of Occurence
 ARP,Admission Review Program
-ARS,Acceptable Risk Safeguards
-ARS,Active Record Status
-ARS,Advanced Record System (GSA)
-ARS,Advanced Retrieval System
-ARS,Age/Race/Sex
 ARS,Agricultural Research Service
 ARS,Altanthus Response System
 ARSTOP,ARS Telephone Communications Operating Procedures
@@ -319,9 +288,6 @@ ARTEMIS,(mainframe project management software testing tool)
 ARTS,Automated Reporting and Tracking System
 ARU,Audio Response Unit
 ARU,Automated Response Unit (Phone system with automated routing)
-AS,Acquisition Strategy
-AS,Administrative Simplification
-AS,Advanced System (AJS)
 AS,American Samoa
 AS,Application System
 ASAP,American Society of Automation in Pharmacy
@@ -385,9 +351,6 @@ AWAS,Automated Work Administration System
 AWP,Actual Wholesale Price
 AWP,Average Wholesale Price (Drugs)
 AZT,Azidothymidine (AIDS drug therapy)
-B&P,Bid and Proposal
-BA,Basic Agreement
-BA,Budget Administration
 BA,Budget Authority
 BA,Business Associate
 BAAADS,Budget Apportionment Allotment Allowance and Database System
@@ -425,7 +388,6 @@ BDP,Beneficiary Database Prototype
 BDPC,Breakthrough Drug Pricing Committee
 BDPP,Beneficiary Database Prototype Project
 BDTS,Batched Data Transmission System
-BEA,Budget Expense Account
 BEA,Bureau of Economic Analysis
 BEA,Business Enterprise Area
 BEAM,Brain Electrical Activity Mapping
@@ -433,7 +395,6 @@ BEAU,Budget Expense Account Unit
 BEER,Beneficiary Earnings Exchange Record
 BEI,Budget Estimating Initiative
 BENDEX,Beneficiary and Earnings Data Exchange System
-Bene,Beneficiary
 BERT,(EDB) Beneficiary Enrollment Retrieval System
 BESS,Part B Extract and Summary System (nee BMAD)
 BEST,Beneficiary Eligibility State Tape (EDB Bene Alpha File)
@@ -444,7 +405,6 @@ BFD,Beneficiary FHIR Data Server
 BGN,Beneficiary Given Name
 BHO,Behavioral Health Organization
 BHS,Business Health Services
-BI,Background Investigation
 BI,Benefits Integrity
 BI,Buy In
 BIA,Business Impact Analysis
@@ -486,7 +446,6 @@ BOME,Bureau of Medical Examiners
 BOR,Before Outliers Removed
 BOSS,Best on Open Systems Solutions
 BOSSN,Beneficiary's Own SSN
-BP,Benefit Period
 BP,Best Price
 BP,Business Partner
 BPA,Blanket Purchase Agreement
@@ -522,16 +481,10 @@ BUTE,Beneficiary Database Update Transaction System (HDBUTE)
 BVR,Budget Variance Report
 BVS,Bureau of Vital Statistics
 BY,Budget Year
-C:D,Connect:Direct
-C/BR,Cost/Benefit Ratio
-C/BR,Cost/Burden Reduction
-C/O,Center or Office
-C/S,Client/Server
+Bene,Beneficiary
 C/SPS,Cost/Scheduling Performance System
-C&P,Compensation and Pension (DVA)
 C2IW,CAFM II Implementation Workgroup
-CA,Certification Authority
-CA,Change Administration
+C:D,Connect:Direct
 CA,Claims Analyst
 CA,Competitive Advocate
 CAAS,Certificate for Advisory and Assistance Services
@@ -542,7 +495,6 @@ CABLE,Combined A/B Local Eligibility
 CABS,Carrier Access Billing System
 CABS,Contractor Administrative Budget and Cost Reporting System
 CABWF,Combined A/B Working File (also see CWF)
-CAC,Carrier Advisory Committee
 CAC,Categorical Assistance Code
 CAC,Contractor Advisory Committee
 CACO,Corporate Administrative Contracting Officer
@@ -559,7 +511,6 @@ CAMS,Customer Account Management System
 CAN,Claim Account Number
 CAN,Common Accounting (or Account) Number
 CANDA,Computer Assisted New Drug Applications
-CAP,Change Acceleration Process
 CAP,Community Acquired Pneumonia
 CAP,Corrective Action Plan
 CAP-REL,Capital Related
@@ -592,7 +543,6 @@ CAWR,Combined Annual Wage Reporting
 CB,Consolidated Billing
 CB,Cost Benefit
 CBA,Cost/Benefit Analysis
-CBC,Center for Beneficiary Choices
 CBC,Cipher Block Chaining
 CBC,Community-Based Care
 CBI,Confidential Business Information
@@ -604,15 +554,11 @@ CBS,Current Beneficiary Survey (by OACT)
 CBSR,Cost Benefit Savings Report
 CBSS,Customer Billing Services System
 CBT,Computer Based Training
-CC,Ceiling Cost
-CC,Claims Control
-CC,Complication or Comorbidity
 CC,Condition Code
 CC,Configuration Control
 CCA,Catastrophic Coverage Act
 CCA,Child Care Association
 CCB,Change Control Board
-CCC,Change Control Coordination
 CCC,Civilian Conservation Corps
 CCC,Comprehensive Care Center
 CCD,Continuity of Care Document
@@ -629,13 +575,9 @@ CCLF,Claim and Claim Line Feed
 CCLR,Claims Collection Litigation Report
 CCM,Chronic Care Management
 CCM,Common Cap Module
-CCN,Carrier Control Number
-CCN,Claim Control Number
 CCN,CMS Certification Number
 CCN,Correspondence Control Number
 CCO,Claims Collection Officer
-CCP,Change Control Planning
-CCP,Comprehensive Care Provider
 CCP,Comprehensive Compliance Program
 CCP,Coordinated Care Plans
 CCPR,Coordinated Comprehensive Provider Review
@@ -673,7 +615,6 @@ CDW,Collision Damage Waiver
 CDWOH,Calendar Days Work on Hand
 CDX,CMMI Centralized Data Exchange
 CE,Covered Entity
-CEA,Center for Enterprise Agility
 CEA,Cost Effectiveness Analysis
 CEA,Council of Economic Advisors
 CEB,Contractor Efficiency Benchmark
@@ -685,8 +626,6 @@ CEDI,Common Electronic Data Interchange
 CEHRT,Certified Electronic Health Record Technology
 CELIP,Claim Expansion and Line Item Processing
 CEMS,Cost-Effectiveness Measurement System
-CER,Capital Expenditure Review
-CER,Combined Exchange Record (from the MBR) (nee URIC)
 CER,Comprehensive Evaluation Report
 CER,Cost Estimating Relationship
 CERRS,CCIIO Enrollment Resolution and Reconciliation System
@@ -714,7 +653,6 @@ CHAP,Child Health Assurance Program
 CHAP,Community Health Accreditation Program
 CHAPS,Consumer Assessment of Health Plans Survey
 CHBI,Commission on Health Benefits and Integration
-CHC,Community Health Center
 CHC,Comprehensive Health Center
 CHC,Continuous Home Care
 CHCC,Center for Hospital and Community Care
@@ -736,9 +674,6 @@ CHMSA,Critical Health Manpower Shortage Area
 CHN,Community Health Network
 CHO,Community Health Organization
 CHOW,Change of Ownership
-CI,Catastrophic Indicator
-CI,Configuration Identification
-CI,Configuration Item
 CI,Continuous Improvement
 CI,Control Interval
 CIA,Commercial Industrial Activity (also GCIA)
@@ -754,8 +689,6 @@ CIM,Coverage Issues Manual
 CIMS,Case Investigation Management System
 CIN,Common Identification Number
 CIO,Chief Information Officer
-CIP,Claims In Process
-CIP,Competitive Incentive Program
 CIP,Continuous Improvement Process Program
 CIP,Customer Initiated Payments
 CIPS,(FRC) Center Information Processing System
@@ -776,8 +709,6 @@ CLMA,Clinical Laboratory Management Association
 CLOE,(Carrier) Claims Only Entry System
 CLT,Certified Lab Technician
 CLUW,Coalition of Labor Union Women
-CM,Center for Medicare
-CM,Complexity Metrics
 CM,Configuration Management
 CM,Configuration Manual
 CMA,Contract Management Action
@@ -785,7 +716,6 @@ CMA,Current Month Accrual
 CMD,Carrier Medical Director
 CMD,Contractor Medical Directors
 CMFMRA,Consolidated Master File of Military Retirees and Annuitants
-CMG,Case Mix Group
 CMG,Computer Measurement Group
 CMG,Contractor Management Group
 CMHC,Community Mental Health Center (or Clinic)
@@ -796,11 +726,6 @@ CMIS,Communications Management Information System
 CMM,Capability Maturity Model
 CMMI,Center for Medicare and Medicaid Innovation
 CMN,Certified Medical Necessity
-CMP,Capacity Management Program
-CMP,Career Management Program
-CMP,Change Management Process
-CMP,Civil Monetary Penalty
-CMP,Competitive Medical Plan (under TEFRA)
 CMP,Comprehensive Medical Plan
 CMP,Configuration Management Plan
 CMP-EIS,CMP Executive Information System
@@ -819,9 +744,6 @@ CNC,Compromised Number Checklist
 CNH,Community Nursing Home
 CNPB,Clean Non-PIP Bills
 CNV,Conversion Phase
-CO,Central Office
-CO,Change Order
-CO,Coinsurance
 CO,Contract Officer
 CO,Control Officer
 COA,Change of Address
@@ -839,7 +761,6 @@ COGME,Council On Graduate Medical Education
 COI,Certificate of Indebtedness
 COI,Change of Intermediaries
 COLA,Cost-of-Living Adjustment
-COM,Centralized Office Minicomputer
 COM,Computer Output Microfilm
 COM,Current Operating Month
 COMPAS,COMDISCO Plan Automation System
@@ -847,10 +768,9 @@ COMSEC,Communication Security
 CON,Certificate of Need
 CONOPS,Concept of Operations
 CONUS,Continental United States
-COO,Chief of Operations
 COO,Chief Operating Officer
+COO,Chief of Operations
 COOP,Continuity of Operation Plan
-COP,Concept of Operations Papers
 COP,Conditions of Participation
 COP,Continuation of Pay
 COPC,Community Oriented Primary Care
@@ -866,7 +786,6 @@ COTS,Commercial Off-the-Shelf
 COWAPS,Council on Wage and Price Stability
 CP,Claims Processing
 CP,Contractor Profiles
-CP/M,Control Program for Microprocessors
 CPA,Cost Plus Award
 CPAF,Cost Plus Award Fee
 CPAP,Common Provider Audit Program
@@ -886,7 +805,6 @@ CPEP,Contractor Performance Evaluation Program (or Profile)
 CPFA,Cost Plus Fee Award
 CPFF,Cost Plus Fixed Fee
 CPHA,Commission on Professional Hospital Activities
-CPI,Center for Program Integrity
 CPI,Consumer Price Index
 CPI,Coverage Period Indicator
 CPI-PD,Consumer Price Index for Prescription Drugs and Medical Supplies
@@ -894,9 +812,6 @@ CPI-U,Consumer Price Index for Urban Areas
 CPIC,Capital Planning and Investment Control
 CPIC,Certification Package for Internal Controls
 CPIF,Cost Plus Incentive Fee
-CPM,Claims Processing Manual
-CPM,Clinical Performance Measure
-CPM,Contractor Performance Management (Module)
 CPM,Critical Path Method
 CPM,Current Payment Month
 CPM/EIS,Contractor Performance Management / Enterprise Information System
@@ -905,19 +820,14 @@ CPO,Care Plan Oversight
 CPO,Chief of Purchasing Office
 CPPC,Cost Plus Percentage of Cost
 CPQC,Claims Processing Quality Control
-CPR,Comparative Performance Report
-CPR,Computerized Patient Record
-CPR,Contractor Performance Report
 CPR,Cost Performance Report
 CPR,"Customary, Prevailing and Reasonable (Charge)"
 CPRI,Computer-based Patient Record Institute
 CPRS,Contractor Performance Reporting System
-CPS,Center for Policy Studies
 CPS,Classified Position System
 CPS,Critical Payment System
 CPSC,Consumer Products Safety Commission
 CPSR,Contractor Purchasing (or Procurement) System Review
-CPT,Claims Processing Timeliness
 CPT,Cost Per Treatment
 CPT,Current Procedural Terminology
 CPT-4,"Current Procedural Terminology, Version 4"
@@ -927,8 +837,6 @@ CQAS,Carrier Quality Assurance System (now Part B QAS)
 CQI,Continuous Quality Improvement
 CQM,Care Quality Measure
 CQMR,Carrier Quarterly Medical Review
-CR,Change Request
-CR,Continuing Resolution
 CR,Cost Report
 CR,Cross Reference
 CRA,Cyber Risk Advisor
@@ -936,7 +844,6 @@ CRAG,Contractor Risk Assessment Guide
 CRAH,Change Request Approval History
 CRAM,Cross Region Access Method
 CRB,Change Review Board
-CRC,Capital Related Costs
 CRC,Career Resource Center
 CRC,Cyclic Redundancy Check
 CRCC,Compensation Related Customary Charges
@@ -959,7 +866,6 @@ CRTS,Cuff Records Tracking System
 CRVR,Catastrophic Repeal Validation Review
 CRVS,California Relative Value Study
 CRWH,Change Request Work History
-CS,Claims Services
 CS,Covered Services
 CS,Customer Service
 CSA,Computer Security Act of 1987
@@ -978,11 +884,8 @@ CSMM,Customer Support for Medicare Modernization
 CSO,Community Service Offices
 CSO,Customer Service Order
 CSOT,Customer Service Outstation Team (also OCST)
-CSP,Certified Systems Professional
 CSP,Customer Service Plan
 CSP,Customer Service Program
-CSR,Core Security Requirements
-CSR,Customer Service Record
 CSR,Customer Service Representative
 CSR,Customer Service Request
 CSRA,Civil Service Reform Act of 1978
@@ -1023,11 +926,6 @@ CWS,Contractor Workload System
 CY,Calendar Year
 CY,Critical Year
 D&F,Determinations and Findings
-DA,Data Acquisition
-DA,Data Administration
-DA,Data Administrator
-DA,Data Analysis
-DA,Data Architecture
 DA,Direct Access
 DA,Dynamic Allocation
 DA&A,Drug Addiction and Alcoholism
@@ -1038,8 +936,8 @@ DAD,Data Access Diagram (aka: DSD)
 DAE,Data Entity
 DAF,Discretionary Adjustment Factor
 DAMA,Data Administration Management Association
-DAP,Data Administration Plan
 DAP,DMERC Advisory Panel
+DAP,Data Administration Plan
 DARC,Delete Automatic Renewal Clause
 DARO,Days After Receipt of Order
 DAS,Distributed Application Services
@@ -1052,7 +950,6 @@ DAT,Digital Audio Tape
 DATAMED,Medicaid Quality Control System
 DAWN,Drug Abuse Warning Network
 DB,Direct Billing
-DBA,Database Administration
 DBA,Database Administrator
 DBA,Doing Business As
 DBC,Drug Benefit Calculator
@@ -1060,7 +957,6 @@ DBDB,Direct Billing Data Base
 DBE,Database Environment
 DBF,Database File (also DB/F)
 DBI,Direct Billing Integration
-DBidS,DMEPOS Bidding System
 DBIS,Direct Billing Integration System
 DBM,Database Management
 DBMS,Database Management System
@@ -1068,10 +964,7 @@ DBPC,Direct Billing Premium Collection
 DBPS,Drug Bill Processors
 DBRP,DB Rules Processors
 DBS,Direct Billing System
-DC,Data Communications
-DC,Data Controls
-DC,Deck Checks (also D/C)
-DC,Diagnostic Code
+DBidS,DMEPOS Bidding System
 DC,Direct Contracting (Model)
 DC,Discharge
 DCAA,Defense Contract Audit Agency
@@ -1103,7 +996,6 @@ DDP,Distributed Data Processing
 DDPS,Drug Data Processing System
 DDR,Discharge During Referral
 DDR,Drug Data Reporting for Medicaid
-DDS,Data Dictionary System
 DDS,Disability Determination Service
 DDS,Distributed Database System
 DEA,Delegated Examining Authority
@@ -1156,7 +1048,6 @@ DLL,Dynamic Linked Libraries
 DLRO,Designated Lead Regional Office
 DM,Data Manager
 DM,Data Model
-DM&S,(DVA) Department of Medicine and Surgery
 DMCL,Database Management Control Language
 DMD,Data Model Diagram
 DME,Distributed Management Environment
@@ -1182,7 +1073,6 @@ DOB,Date of Birth
 DOC,Days of Care
 DOC,Department of Commerce
 DOD,Date of Death
-DoD,Department of Defense
 DODCI,Department of Defense Computer Institute
 DOE,Date of Entitlement
 DOE,Department of Energy
@@ -1203,7 +1093,6 @@ DOST,Date of Suspension or Termination
 DOT,Department of Transportation
 DOTH,Date of Termination of Hospital Insurance
 DOTS,Date of Termination of Supplementary Medical Insurance
-DP,Data Processing
 DP,Disability Pension
 DP,Distinct Part
 DPA,Delegation of Procurement Authority
@@ -1219,7 +1108,6 @@ DPS,Demonstration Payment System
 DQC,Data Quality Committee
 DQSC,Data Quality Steering Committee
 DR,Desk Review
-DRA,Data Release Agreement
 DRA,Deficit Reduction Act
 DRA,Disaster Recovery Assessment
 DRAFT,Dictionary/Repository Access Facility and Tools System
@@ -1270,13 +1158,12 @@ DWI,Disabled and Working Individual (see QDWI)
 DWOH,Days Work On Hand
 DX,Diagnosis
 DXGROUP,Diagnosis Group
+DoD,Department of Defense
 E-PSA,Electronic Public Service Announcement
 E/M,Evaluation and Management
-EA,Emergency Assistance
 EA,Enterprise Architecture
 EA,Exception Analyst
 EAB,Enumeration at Birth (SSA)
-EAC,Estimate at Completion
 EAC,Estimated Acquisition Cost
 EAC,Executive Advisory Committee
 EACH,Essential Access Community Hospital
@@ -1289,7 +1176,6 @@ EB,ESRD Bene
 EBCDIC,Extended BinaryCoded Decimal Interchange Code
 EBNE,Eligible But Not Enrolled
 EBRI,Employee Benefit Research Institute
-EC,Enrollment Control
 EC,Evaluation Criterion
 EC,Event Cycle
 ECAPE,Electronic Case Adjudication and Processing Environment
@@ -1300,10 +1186,8 @@ ECFMG,Educational Commission for Foreign Medical Graduates
 ECI,Employment Cost Index
 ECKD,Extended Count Key Data
 ECM,Electronic Counter Measures
-ECP,Electronic Claims Processing System
 ECP,Engineering Change Proposal
 ECP,External Counterpulsation
-eCQM,Electronic Care Quality Measure
 ECR,Electronic Cost Report
 ECR,Enterprise Cross Reference
 ECRD,Early Complaint Resolution Process
@@ -1326,7 +1210,6 @@ EDBUPT,EDB Online Update Facility
 EDBW,EDB Workbench
 EDEES,ESRD Data Entry and Editing System
 EDF,Execution Diagnostic Facility
-eDFR,Expanded Data Feedback Reporting
 EDG,Emergency Department Group
 EDG,Enterprise Database Group
 EDI,Electronic Data Interchange
@@ -1355,7 +1238,6 @@ EIA 232-C,EIA electrical interface standard 232C
 EIB,Employer Insured Beneficiary
 EIDM,Enterprise Identity Management
 EIN,Employer Identification Number
-EIS,Enterprise Information System
 EIS,Environmental Impact Statement
 EIS,Executive Information Systems
 EISA,Extended Industry Standard Architecture
@@ -1422,7 +1304,6 @@ ERMA,Edit and Reject Monthly Accumulation Report System
 ERN,Electronic Remittance Notice
 ERNIE,EDB Enrollment Retrieval New Interactive Edit System
 ERP,Enterprise Resource Planning
-eRPT,Electronic Retroactive Processing Transmission
 ERQ,Engineering Requirements
 ERS,Experimental Reimbursement System
 ERV,Entity Relationship Verification
@@ -1456,9 +1337,7 @@ EVS,Eligibility Verification System
 EVS,Enumeration Verification System
 EWU,Equivalent Work Unit
 EXA,Extended Architecture
-F&A,Fraud and Abuse
 F&D,Findings and Determination
-FA,Field Audit
 FA,Fiscal Agent
 FA,Functional Area
 FAA,Federal Aviation Administration
@@ -1513,7 +1392,6 @@ FDOES,First Date of Entitlement to Supplementary Medical Insurance (Part B)
 FEC,Federal Election Commission
 FEC,Freestanding Emergency Center
 FED-STD,Federal Standard
-FedRAMP,Federal Risk and Authorization Management Program
 FEDSIM,Federal Computer Performance Evaluation and Simulation Center
 FEDSIM,Federal Systems Integration Management
 FEDSTRIP,Federal Standard Requisitioning and Issue Procedures
@@ -1576,7 +1454,6 @@ FM-TAG,Financial Management Technical Advisory Group
 FMA,Federal Managers Association
 FMAP,Federal Medical Assistance Payments
 FMAP,Federal Medical Assistance Percentage
-FMC,Facility Management Contract (Contractor)
 FMC,Federal Maritime Commission
 FMC,Foundation for Medical Care
 FMCS,Federal Mediation and Conciliation Service
@@ -1584,7 +1461,6 @@ FMFIA,Federal Managers' Financial Integrity Act of 1992
 FMIS,Field Management Information System
 FMM,Financial Management Manual
 FMR,Focused Medical Review
-FMS,Federal Monitoring Survey
 FMS,Federal Monitoring System
 FMS,Financial Management Service (Treasury Dept.)
 FMSNET,Financial Management System Network
@@ -1634,10 +1510,8 @@ FRCS,Federal Reserve Communication System (Treasury Dept.)
 FRD,Functional Requirements Document
 FRO,Field Regional Office
 FRS,Federal Reserve System
-FS,Final Settlement
 FS,Financial Statement
 FS,Fixed Standard
-FSA,Family Services Administration
 FSA,Federal Service Area
 FSA,Flexible Savings Account
 FSCM,Federal Supply Code for Manufacturers (OBSOLETE now called CAGE)
@@ -1667,8 +1541,9 @@ FY,Fiscal Year
 FY/CY,Fiscal Year/Calendar Year
 FYE,Fiscal Year End or Ending
 FYTD,Fiscal Year To Date
-G-CPR,Government Computer-Based Payment Related Project
+FedRAMP,Federal Risk and Authorization Management Program
 G&A,General and Administrative (costs)
+G-CPR,Government Computer-Based Payment Related Project
 GAAP,Generally Accepted Accounting Principles
 GAAS,Generally Accepted Auditing Standards
 GAB,Grant Appeals Board
@@ -1722,7 +1597,6 @@ GPCI,Government Practice Cost Index
 GPCI,Government Purpose License Rights
 GPI,Group Practice Indicator
 GPNPI,Group Practice National Provider Indicator
-GPO,Government Printing Office
 GPO,Government Project Officer
 GPO,Group Purchasing Organization
 GPP,Group Practice Plan
@@ -1764,11 +1638,10 @@ HAVEN,Home Assessment Validation and Entry System
 HBCU,Historically Black Colleges and Universities
 HBO,Prior Authorization Model for Non-Emergent Hyperbaric Oxygen (Model)
 HBP,Hospital-Based Physician
-HC,Hardcopy Claims
 HC,HI Control Operations
+HC,Hardcopy Claims
 HCA,Hospital Corporation of America
 HCBWP,Home and Community Based Waiver Program
-HCC,Health Care Compare
 HCC,Hierarchical Coexisting Condition
 HCC,Hierarchical Condition Category
 HCCA,Health Care Commuting Area
@@ -1844,8 +1717,6 @@ HIAA,Health Insurance Association of America
 HIAM,Health Insurance Alpha Microfilm
 HIB,Hospital Insurance Benefits (Part A)
 HIBRR,Health Insurance Benefits Rights and Responsibilities
-HIC,Health Information Center
-HIC,Health Insurance Claim (number used by CMS)
 HIC,Health Insurance Company
 HIC,Home Intensive Care
 HICAN,Health Insurance Claim Account Number (Medicare Number)
@@ -1868,9 +1739,8 @@ HIMF,Health Insurance Master File
 HIMICS,(OHPS) Management Information Control System
 HIMR,HI Master Record
 HIMSS,(AHA's) Healthcare Information and Management Systems Society
-HIN,Health Industry Number
-HIN,Health Insurance Networks
 HIN,HI Number (see HICN)
+HIN,Health Insurance Networks
 HINN,Hospital-Issued Notice of Noncoverage
 HIO,Health Informatics Office
 HIO,Health Insurance Organization
@@ -1946,8 +1816,6 @@ HRG,Health Research Group
 HRGA,High Rate Geographical Area
 HRSA,Health Resources and Services Administration
 HS,HI Updating Provider Files Operations
-HSA,Health Service Area
-HSA,Health Services Administration
 HSA,Health Systems Agencies
 HSA,Historical SPAC Amount
 HSC,(Army) Health Services Command
@@ -1964,7 +1832,6 @@ HURA,Health Underserved Rural Area
 HWI,Hospital Wage Index
 HYBC,Hypothetical Base Year Calculations
 I-CASE,Integrated Computer Aided Software Engineering
-IA,Information Access
 IA,Information Assurance
 IA,Inter/IntraAgency Agreement
 IAC,Industry Advisory Council
@@ -1984,13 +1851,8 @@ IBNR,Incurred But Not Reported
 IBPO,Initial Bill Processing Option
 IBPR,Intermediary Benefit Payment Report
 IBR,Intermediary Benefit Payment
-IC,Individual Consideration
-IC,Initial Claims Operations
-IC,Innovation Center
 IC,Integrated Circuit
 IC,Internal Controls
-ICA,Information Control Area
-ICA,"Information, Counseling and Assistance"
 ICA,Insurance Counseling Assistance (Program)
 ICA,Internal Control Area
 ICAM,Integrated Computer Aided Manufacturing
@@ -2001,7 +1863,6 @@ ICC,Interstate Commerce Commission
 ICCB,Infrastructure Change Control Board
 ICCP,Individual Community Care Plan
 ICCSHE,Interagency Committee on Computer Support of Handicapped Employees
-ICD,Implantable Cardioverter Defibrillator
 ICD,Interface Control Document
 ICD,International Classification of Diseases
 ICD-9-CM,International Classification of Diseases 9th Edition Clinical Modification
@@ -2012,24 +1873,15 @@ ICF/MR,Intermediate Care Facility for Mental Retardation
 ICFS/MR,Intermediate care facilities for the mentally retarded
 ICMA,Individual Case Management Association
 ICMS,Information Center Management System (Cullinet)
-ICN,Inhouse Claim Number
-ICN,Inquiry Control Number
-ICN,Intercontractor Notices
-ICN,Intermediary Control Number
 ICN,Internal Control Number
 ICN,Inventory Control Number
 ICP,Internal Control Program
 ICPR,Informal Dispute Resolution
 ICQ,Internal Control Questionnaire
-ICR,Image Copy Recognition
-ICR,Incomplete Claims Reject
-ICR,Information Collection Requirement
-ICR,Intelligent Character Recognition
 ICR,Internal Control Review
 ICR,Investigative Claims Report
 ICST,Institute for Computer Sciences and Technology
 ICSTP,Intermediary/Carrier System Testing Project
-ID,Identification (Number)
 ID,Identifying Data
 ID,Implementation Date
 IDB,Information Data Base
@@ -2091,7 +1943,6 @@ IMPACC,Immediate Payment Critical Case Process (MBR)
 IMPACT,Improving Medicare Post-Acute Care Transformation Act of 2014
 IMPACT,Integrated (or Improved) Management of Personnel Administration thru Computer Technology
 IMRP,Instruction Manual for Renal Providers
-InCK,Integrated Care for Kids (Model)
 INFOMAN,Information Management
 INFOSEC,Information (System) Security
 INRA,Immigration Nursing Relief Act of 1989
@@ -2120,8 +1971,6 @@ IPL,Initial Program Load
 IPMG,Investment Planning and Management Group
 IPO,Initial Program Offering
 IPOA,InterPlan Operating Agreement
-IPP,Individual Practice Plan
-IPP,Individual Program Plan
 IPP,Integrated Planning Process
 IPP,Integrated Project Planning
 IPPB,Intermittent Positive Pressure Breathing
@@ -2135,13 +1984,10 @@ IQC,Internal Quality Control
 IQUE,Inplant Quality Evaluation
 IR,Incident Report
 IR,Information Requirement
-IR&D,Independent Research and Development
 IRA,Initial Review Analysis
 IRAC,Information Resources Administration Councils
 IRB,Institutional Review Board
 IRB,Intern and Resident to Bed (ratio)
-IRC,Informal Resolution Conference
-IRC,Information Resource Center
 IRC,Inpatient Respite Care
 IRC,Internal Revenue Code
 IRCA,Immigration Reform and Control Act of 1986
@@ -2154,7 +2000,6 @@ IRIS,Interns and Residents Information System
 IRM,Information Resources Management
 IRMP,Information Resource Management Program (or Plan)
 IRMS,Information Resource Management Service
-IRP,Incentive Reward Program
 IRP,Insurance Reimbursement Program
 IRP,Interim Review Package
 IRR,Implementation Readiness Review
@@ -2201,6 +2046,7 @@ IUC,Incurred But Unreported Claims Reserve
 IV&V,Independent Validation and Verification
 IVR,Interactive Voice Response
 IWD,Individuals With Disabilities
+InCK,Integrated Care for Kids (Model)
 JAD,Joint Applications Design (or Development)
 JAMA,Journal of the American Medical Association
 JAS,Job Accounting System
@@ -2275,7 +2121,6 @@ LISP,List Processor
 LM,Line Manager
 LMRP,Local Medical Review Policy
 LOB,Line of Business
-LOC,Letter of Credit
 LOC,Level of Care
 LOC,Lines of Code
 LOE,Level of Effect
@@ -2317,12 +2162,9 @@ LVAD,Left Ventricular Assist Device
 LVE,Low Volume Exemption
 LVRS,Lung Volume Reduction Surgery
 LW,Living With
-M&M,Medicare and Medicaid
 M+C,Medicare + Choice
 M+C NSF,Medicare + Choice National Standard Format
 M+CO,Medicare + Choice Organization
-MA,Major Action
-MA,Medicaid Agency
 MA,Medical Assistance
 MA,Medicare Advantage
 MA BSF,Medicare Advantage Benefit Stabilization Fund
@@ -2332,8 +2174,6 @@ MAA,Memorandum of Advance Agreement
 MAABD,"Medical Assistance to Aged, Blind and Disabled"
 MAAC,Maximum Allowable Actual Charge
 MAAR,Mandatory Annual Audit Requirement
-MAC,Major Ambulatory Category
-MAC,Maximum Allowable Cost (or Charge)
 MAC,Medicare Administrative Contractor
 MAC,Medicare Appeals Council
 MACE,Medicare Alternate Claim Entry System
@@ -2355,8 +2195,6 @@ MANRLINE,Menu-driven Access to 100% Near-Line Claims Files System (NCH)
 MANRLITE,Access to MANERLINE
 MAO,Medical Assistance Only
 MAO,Medicare Advantage Organization
-MAP,Manufacturing Automated Protocol
-MAP,Maturity Actions Program (MBR)
 MAP,Medical Assistance Payments
 MAP,Medical Assistance Program
 MAPC,Maximum Allowable Prevailing Charge
@@ -2449,7 +2287,6 @@ MDP,Medicaid Drug Program (System)
 MDPP,Medicare Diabetes Prevention Program
 MDR,Medicaid Drug Rebate (Program)
 MDRI,Medicaid Drug Rebate Initiative
-MDS,Medicare Decision Support
 MDS,Minimum Data Set
 MDS,Mortality Data System
 MDSRH,Medicare Dependent Small Rural Hospital
@@ -2474,7 +2311,6 @@ MEDICAID,Medical Aid (State administered health insurance program)
 MEDIGAP,Medicare Gap (Medicare complementary insurance program)
 MEDIRS,Medicaid Eligibility Determination and Information Retrieval System
 MEDMRG,Medicaid Merge Program (HDMEDMRG)
-MedPAC,Medicare Payment Advisory Commission
 MEDPAR,Medicare Provider Analysis and Review
 MEDPARD,Medicare Participating Physician/Supplier Directory
 MEDSTAT,Medicaid Statistical Information (Reporting) System (now MSIS)
@@ -2521,7 +2357,6 @@ MIPPA,Medicare Improvements for Patients and Providers Act of 2008
 MIPS,Merit-Based Incentive Payment System
 MIR,Medicare Information Request
 MIRPS,Miscellaneous Information Reference PostEntitlement System (SSA MBR)
-MIS,Major Information Systems
 MIS,Management Information System
 MIS,Manual Issuance System
 MISCOR,Miscellaneous MBR Correction Operation
@@ -2547,7 +2382,6 @@ MMORP,Medicare Management and Open Review Program
 MMP,Mixed Model Plan (GPP/IPP combination)
 MMPS,Medicare Mortality Predictor System
 MMR,Monthly Membership Report
-MMS,Manpower Management System
 MMS,Metropolitan Medicare System
 MMS,Minerals Management Service
 MMSEA,"Medicare, Medicaid, and SCHIP Extension Act of 2007"
@@ -2598,8 +2432,6 @@ MQIS,Medicare Quality Indicator System
 MQM,Medicare Quality Monitor
 MQR,Medicare Quality Release
 MQSA,Mammography Quality Standards Act of 1992
-MR,Management Review
-MR,Master Record
 MR,Medical Review
 MR,Mortality Ratio
 MR/DD,Mentally Retarded / Developmentally Disabled
@@ -2618,11 +2450,6 @@ MRS-1,Medical Review System Version 1 (aka: Part B Medical Review Savings Report
 MRT,Medical Review Team
 MRTAG,Mortality Review Technical Advisory Group
 MS-DRG,Medicare Severity Diagnosis Related Groups
-MS/R,Multi-State/Regional (Contractor)
-MSA,Major Service Area
-MSA,Medical Savings Accounts
-MSA,Medical Statistical Area
-MSA,Medicare Savings Account
 MSA,Metropolitan Statistical Area (for PPS)
 MSA,Monthly Statement of Accounts
 MSAT,Medicaid Strategic Analysis Team
@@ -2633,7 +2460,6 @@ MSI,Medicare Administrative Contractor (MAC) Satisfaction Indicator
 MSIS,Medicaid Statistical Information System
 MSN,Medicare Summary Notice
 MSOM,Modernized Systems Operations Manual (SSA)
-MSP,Manager Software Products
 MSP,Medicare Secondary Payer
 MSP,Message Security Protocol
 MSPFQA,Medicare Secondary Payer Functional Quality Assurance (Steering Committee)
@@ -2668,6 +2494,7 @@ MUR,Minimum Utilization Rate
 MVPS,Medicare Volume Performance Standard
 MVS/ESA,MVS/Enterprise System Architecture
 MWRS,Medicare Workload Report System
+MedPAC,Medicare Payment Advisory Commission
 N&R,Needs and Requirements
 NAAP,National Association of Activity Professionals
 NAATP,National Association of Addiction Treatment Providers
@@ -2853,7 +2680,6 @@ NMFAI,National Medicaid Fraud and Abuse Institute
 NMS,Network Monitoring System (MTS)
 NMUD,National Medicare Utilization Database
 NNWP,Noncontact Normothermic Wound Therapy
-NOA,Nature of Action
 NOA,Notice of Admission
 NOA,Notice of Award
 NOAA,National Oceanographic and Atmospheric Administration
@@ -2908,7 +2734,6 @@ NRM,Notice of Rule Making
 NRODC,Northwest Regional Organ Donation Center
 NRP,Network Resource Planning (tool)
 NRU,Nurse Review Unit
-NSA,National Security Agency
 NSA,National Standardized Amount
 NSA,Network Security Assessment
 NSC,National Security Council
@@ -2917,8 +2742,6 @@ NSCLC,National Senior Citizens Law Center
 NSDD,National Security Decision Directive
 NSEF,National Standard Electronic (Media) Format
 NSEMC,National Standard Electronic Media Claims
-NSF,National Science Foundation
-NSF,National Standard Format
 NSF,Non-Standard Format
 NSF,Not Sufficient Funds
 NSN,National Stock Number
@@ -2944,9 +2767,9 @@ NVA,Non-Department of Veterans Affairs
 NVAC,National Vaccine Advisory Committee
 NVP,National Vaccine Program
 NWI,National Wage Index
-O/H,Overhead
 O&M,Operations and Maintenance
 O&M,Organization and Management
+O/H,Overhead
 OA,Office Automation
 OA,Office of the Administrator
 OAA,Old Age Assistance
@@ -3026,10 +2849,8 @@ OMR,Office of Medical Review
 OMR,Optical Mark Reading
 OMRA,Other Medicare Required Assessment
 OMS,Oversight and Management System
-OnePI,One Program Integrity (System)
 OOP,Object Oriented Programming
 OOSA,Out of Service Area (use OSA)
-OP,Organization Purpose
 OP,Outpatient
 OP,Overpayment
 OPA,Organ Procurement Agency
@@ -3063,12 +2884,11 @@ OS,Office of the Secretary
 OS,Organization Structure
 OS/ES,Office of the Secretary / Executive Secretariat
 OSA,Out of Service Area (also OOSA)
-OSC,Office of Standards and Certification
 OSC,Office Systems Coordinator
+OSC,Office of Standards and Certification
 OSCAR,Office of Standards and Certification Automated Retrieval System
 OSCAR,Online Survey Certification and Reporting (System)
 OSDIT,Office of Software Development and Information Technology
-OSE,Office Systems Equipment
 OSE,Open Software Evaluation
 OSE,Open Systems Environment
 OSERS,Office of Special Education Rehabilitation Services
@@ -3093,26 +2913,14 @@ OTS,One-Time Source
 OWCP,Office of Worker's Compensation Programs
 OWL,Older Women's League
 OWTDS,Office of Washington Training and Development Services
+OnePI,One Program Integrity (System)
 P,Process
 P/B,Provider / Beneficiary
 P/N,Part Number
-P&E,Parenteral and Enteral
-P&T,Pharmaceutical and Therapeutic
-PA,Privacy Act of 1974
 PA,Privacy Advisor
 PA,Project Assessment
-PAC,Patient Assessment Computerized (System)
-PAC,Personal Access Code
-PAC,Political Action Committee
-PAC,Post-Acute Care
-PAC,Pre-Admission Certification
-PAC,Premium Amount Collectible
-PAC,Products of Ambulatory Care
-PAC,Professional and Administrative Careers
 PAC,"Professional, Administrative, Clerical"
 PAC,Project Account Code
-PACE,Pharmaceutical Assistance Program
-PACE,"Planning, Assigning, Controlling and Evaluating System"
 PACE,Professional and Administrative Career Examination
 PACE,Program of All-Inclusive Care for the Elderly
 PACEMKR,Pacemaker System
@@ -3132,10 +2940,6 @@ PAO,Procurement Assistance Office
 PAO,Property Accountable Officer
 PARD,Provider Audit and Reimbursement Department
 PARL,Physician/Supplier Assignment Rate List
-Part A,Medicare Hospital Insurance
-Part B,Medicare Supplementary Medical Insurance
-PAS,Pre-Award Survey
-PAS,Premium Accrual Stop
 PAS,Professional Activity Study
 PAS,"Public Appearances Staff, OPA"
 PASARR,Preadmission Screening and Annual Resident Review
@@ -3145,7 +2949,6 @@ PAT,Planning Action Team
 PATCO,"Professional, Administrative, Technical, Clerical Other"
 PATHVU,Path View
 PAYERID,Payer Identification (national provider identifier initiative)
-PBA,Part B Advisory
 PBA,Performance-Based Adjustment
 PBA,Pharmacy Benefit Administrator
 PBC,Premium Billing Code
@@ -3159,13 +2962,8 @@ PBP,Provider Based Physician
 PBPM,Per Beneficiary Per Month
 PBR,Process Bill Register
 PBX,Private Branch Exchange
-PC,Partnership Council
-PC,Procurement Cycle
 PC,Professional Component
 PC,Project Coordinator
-PCA,Physical Configuration Audit
-PCA,Physicians Comparability Allowance
-PCA,Principle Certification Authority
 PCA,Private Collection Agency
 PCA,Progressive Corrective Action
 PCAM,Punch Card Accounting Machines
@@ -3184,8 +2982,6 @@ PCMI,President's Council on Management Improvement
 PCO,Procurement Contracting Officer
 PCP,Primary Care Physician (or Provider)
 PCPR,Provider Claims Processing Requirements
-PCR,Primary Care Redesign
-PCR,Private Consumer Rate
 PCR,Procurement Center Representative
 PCR,Prospective Composite Rate
 PCRP,Per Capita Rate Payment
@@ -3194,14 +2990,10 @@ PCS,Permanent Change of Station
 PCS,Position Classification Standard
 PCT,Project Coordination Team
 PCYA,Presidential Classroom for Young Americans
-PD,Physical Database
-PD,Position Description
-PD,Premium Deducted
 PD,Process Description
 PD,Program Development
 PDA,Premium Due Amount
 PDBO,Public Disability Benefit Offset
-PDD,Physical Database Design
 PDD,Preliminary Design Document
 PDD,Presidential Decision Directive
 PDD63,Presidential Decision Directive #63
@@ -3210,7 +3002,6 @@ PDF,Program Development Facility
 PDFS,Prescription Drug Front-End System
 PDGM,Patient Driven Groupings Model
 PDLO,Printing and Distribution Liaison Officer
-PDM,Parallel Development Manager
 PDM,Personalized Documentation Manager
 PDM,Program Decision Memorandum
 PDMA,Prescription Drug Marketing Act of 1988
@@ -3224,7 +3015,6 @@ PDS,Peer (Review Organization) Data System
 PDSC,Phased-Down State Contribution
 PDT,Physical Design Team
 PDV,Program Data Vector
-PE,Performance Evaluation
 PE,Post Entitlement
 PE,Program Evaluation
 PEB,Performance Evaluation Board (contracts)
@@ -3238,8 +3028,6 @@ PEI,Postentitlement Internet (MBR Query)
 PEL,(OSHA) Permissible Exposure Limits
 PENVAL,Post Entitlement Notices Validations (SSA)
 PEO,Program Executive Officer
-PEP,Partial Episode Payment
-PEP,Partnerships in Education Program
 PEP,Performance Evaluation Program
 PEP,Proposal Evaluation Plan
 PEPP,Payment Error Prevention Program
@@ -3272,24 +3060,18 @@ PHP,Prepaid Health Plan
 PHPO,Prepaid Health Plan Option
 PHPO,Private Health Plan Option
 PHR,Professional in Human Resources
-PhRMA,Pharmaceutical Manufacturers and Researchers of America
 PHTP,Priority Health Training Programs
 PHUS,Payment History Update System
 PHY/SUP,Physician/Supplier
-PI,Penalty Indicator
-PI,Performance Indicator
-PI,Productivity Investment
 PI,Program Integrity
 PI,Project Initiation
 PIA,Primary Insured Amount (MBR)
 PIA,Privacy Impact Assessment
-PIC,Policy Information Center (DHHS)
 PIC,PRO Intermediary Carrier
 PIC,Program Information Coordinator
 PICC,Peripherally-Inserted Central Catheter
 PICS,Plan Information Control System
 PICS,Program Information Control System
-PID,Payer Identification System
 PID,"Program Inspections Division, OIG"
 PID,Project Idea Document
 PIDS,People or Individual with Disabilities (aka POIWD)
@@ -3301,15 +3083,9 @@ PIIS,Program Instructions Issuance System
 PIM,Medicare Program Integrity Manual
 PIM,Personal Information Manager
 PIMR,Program Integrity Management Reporting
-PIN,Personal Identification Number
-PIN,Physician Identification Number
-PIN,Pre-Invitation Notice
 PIN,Primary Insured Number (MBR)
 PIN,Provider Identification Number
 PINQ,Premium Inquiry
-PIP,Performance Improvement Plan
-PIP,Periodic Interim Payment
-PIP,Physician Incentive Plan
 PIP,Productivity Improvement Program
 PIP,Projects in Progress
 PIPC,Public Information Program Circular
@@ -3319,7 +3095,6 @@ PIR,Post Implementation Review
 PIT,Process Improvement Team (ALJ)
 PITS,PRO Information Tracking System
 PJS,Personal Job Scheduler
-PL,Performance Level
 PL,Proposed Legislation
 PL,Public Law
 PL99-474,Computer Fraud and Abuse Act of 1986
@@ -3327,9 +3102,6 @@ PLAN,Plain Language Action Network
 PLAN,Protection for Long Term Assistance Needs
 PLANNET,Plan Network
 PLT,Production Lead Time
-PM,Procedure Manual
-PM,Product Manager
-PM,Program Management
 PM,Program Memoranda
 PM,Project Manager
 PM-PET,Program Management-Provider Education and Training
@@ -3344,32 +3116,23 @@ PMDA,Performance Metrics Database and Analytics
 PME,Partial Month Eligible (Medicaid)
 PME,Prior Month Ending
 PMI,Project Management Institute
-PMIS,Program Management Information System
 PMIS,PSRO Management Information System
+PMIS,Program Management Information System
 PMMIS,Program Management and Medical Information System
 PMO,Project Management Office
 PMO,Property Management Officer
 PMP,Preventive Maintenance Program
 PMP,Project Management Plan
-PMRS,Performance Management and Recognition System
 PMRS,Performance Management Rating System
-PMS,Payment Management System
-PMS,Personnel Manual for Supervisors (SSA)
+PMRS,Performance Management and Recognition System
 PMS,Program Management System
 PMS,Property Management System
 PMSA,(BLSC) Primary Metropolitan Statistical Area
 PMTT,Programmable Magnetic Tape Terminal (or Transmission)
 PNM,Price Negotiation Memorandum
-PO,Post Office
-PO,Privacy Officer
-PO,Procurement Office
-PO,Project Officer
 PO,Prosthetics and Orthotics
 PO,Purchase Order
 POAM,Plan of Action and Milestones
-POC,Patterns of Care
-POC,Plan of Care
-POC,Plan of Correction
 POC,Point of Contact
 POC,Principal Operating Component
 POCI,Physician Ownership/Compensation Interest
@@ -3377,16 +3140,12 @@ POE,Plan of Expenditures
 POIWD,People or Individuals with Disabilities (aka PIDS)
 POL,Physician Office Laboratories
 POMS,Program Operations Manual System (SSA) (formerly Claims Manual CM))
-POR,Print/Utility Owning Region
 POR,Provider Overpayment Recovery
 POR,Provider Overpayment Report
 PORA,Principal Official Responsible for Acquisition
 PORS,Provider Overpayment Recovery System
 PORS,Provider Overpayment Reporting System
 PORT,Patient Outcome Research Team (or Treatment)
-POS,Place of Service
-POS,Point of Sale
-POS,Point of Service
 POS,Provider of Service(s) (System)
 POS,Provider of Services (File)
 POSIX,Portable Operating System Interface Exchange
@@ -3414,9 +3173,6 @@ PPR IMI,Physician Payment Reform Impact Monitoring Initiative
 PPRC,Physician Payment Review Commission
 PPRMS,Physician Payment Review Monitoring System
 PPRTF,Physician Payment Reform Task Force
-PPS,Prepayment Screen
-PPS,Primitive Process Specification
-PPS,Proposed Price Setting
 PPS,Prospective Payment System
 PPS,Prospective Pricing System
 PPSMS,Printing and Paper Stock Management System
@@ -3427,10 +3183,8 @@ PPWY,Productivity Per Work Year
 PQE,Prior Quarter Ending
 PQRI,Physician Quality Reporting Initiative
 PQRS,Physician Quality Reporting System
-PR,Peer Review
 PR,Program Requirement
 PR,Purchase (or Procurement) Request
-PRA,Paperwork Reduction Act of 1980
 PRA,Per Resident Amount
 PRA,Percent Reactive Antibody
 PRACP,Project Review and Coordination Panel
@@ -3447,20 +3201,17 @@ PRIS,Payment Recovery Information System
 PRISM,"Project to Redesign Information Systems Management (begun in 1984, ended in 1991 when funding expired)"
 PRM,Provider Reimbursement Manual
 PRMDS,Provider Minimum Data Set
-PRO,Peer Review Organization (renamed to QIO)
 PRO,Principal Regional Official
 PRO,Professional Review Organization
 PRO/FI,Professional Review Organization / Fiscal Intermediary
 PROM,Protocol for Regional Office Monitoring
 PROMPTS,Peer Review Organization Monitoring Protocol and Tracking System
 PROPAC,Prospective Payment Assessment Commission (Task Force)
-PRP,Payment Record Process
 PRP,Prospective Reimbursement Plan
 PRP,Provider Reimbursement Profile
 PRPD,Payment Reform Policy Development
 PRRA,Paperwork Reduction Reauthorization Act
 PRRB,Provider Reimbursement Review Board
-PRS,Parameter Release Study
 PRS,Payment Reconciliation System
 PRS,Prepayment Review System
 PRUCOL,Permanently Residing Under Color of Law
@@ -3468,15 +3219,10 @@ PRVSF,Provider Summary File
 PS,Physician Sequential
 PS&E,Performance Standards and Evaluation
 PS&E TAG,Performance Standards and Evaluation Technical Advisory Group
-PS&R,Provider Statistical and Reimbursement (System)
 PS&RR,Provider Statistical and Reimbursement Report
-PSA,Pre-Solicitation Announcement
 PSA,Problem Statement Analysis
 PSA,Public Service Announcement
 PSAF,Physician/Supplier Action File
-PSC,Product and Service Code
-PSC,Program Safeguard (or Safety) Contractor
-PSC,Program Service Center (SSA) (formerly Payment Center (PC))
 PSC,Program Support Center (DHHS)
 PSC,Public Service Commission
 PSF,Provider Specific File
@@ -3486,12 +3232,10 @@ PSL,Problem Statement Language
 PSM,Physician Summary Master
 PSO,Physician Security Officer
 PSO,Provider-Sponsored Organization
-PSOR,Physician and Supplier Overpayment Report
 PSOR,Physician Supplier Overpayment Recovery
 PSOR,Provider Statistical and Overpayment Report
 PSP,Provider/Supplier Service Plan
 PSPRICE,Physician Fee Schedule System
-PSR,Proposal Submission Requirements
 PSR,Provider Statistics and Reimbursement Report (aka PS&R)
 PSR,Provider Summary Report
 PSRB,Performance Standards Review Board
@@ -3500,11 +3244,8 @@ PSRO,Physician Service Review Organization
 PSRS,Provider Statistical and Reimbursement System
 PSS,Packet Switch Service (FTS2000)
 PSS,Programed Symbol Set (board)
-PT,Physical Therapy
 PT,Processing Time
 PT,Proficiency Testing
-PTA,Part A (of Medicare)
-PTA,Percutaneous Transluminal Angioplasty
 PTA,Point of Total Assumption
 PTA,Prior To Admission
 PTAC,Physician-Focused Payment Model (PFPM) Technical Advisory Committee
@@ -3514,7 +3255,6 @@ PTAMUS,Part A Medicare Utilization System
 PTAPTT,Part A Processing Times Tabulation
 PTB,Part B (of Medicare)
 PTO,Patent and Trademark Office
-PTP,Performance Test Platform (PRISM)
 PTP,Portable Training Package
 PTP,Proficiency Testing Program
 PTS,Provider Terminal System
@@ -3541,7 +3281,9 @@ PWS,Performance Work Standard
 PX,Post Exchange
 PY,Prior Year
 PYE,Prior Year Ending
-Q&A,Questions and Answers
+Part A,Medicare Hospital Insurance
+Part B,Medicare Supplementary Medical Insurance
+PhRMA,Pharmaceutical Manufacturers and Researchers of America
 QA,Quality Assessment
 QA,Quality Assurance
 QAE,Quality Assurance Evaluator
@@ -3558,7 +3300,6 @@ QAS,Quality Assurance System
 QATAP,Quality Assurance Through Attributes Program
 QBE,Query By Example
 QBL,Qualified Bidders List
-QC,Quality Control
 QC,Quality Council
 QC,Quarters of Coverage (SSA)
 QCEM,Quality Control Enforcement Mechanism
@@ -3606,11 +3347,7 @@ QUEST,Quality Evaluation of Settlement
 QUGS,Quality Utilization Generic Screens
 QW,Quick Reference
 QWDI,Qualified Working Disabled Individual (aka QDWI)
-R/C,Report of Contact
-R&A,Repair and Alteration (contract)
-R&C,Reasonable and Customary
 R&D,Research and Development
-RA,Regional Administrator
 RA,Remittance Advice
 RA,Risk Assessment
 RAAC,Risk Adjustment Advisory Committee
@@ -3618,18 +3355,15 @@ RAB,Register Accreditation Board
 RAC,Recovery Audit Contractor
 RAC,Reimbursement Advisory Committee
 RACF,Resource Access Control Facility (software)
-RAD,Rapid Application Development
 RAD,Requirements Analysis Document
 RAD,Respiratory Assist Device
-RADAR,Radio Detection and Ranging
 RADAR,RSDI Account Data Record
+RADAR,Radio Detection and Ranging
 RADARS,(HCFA) Ranking and Data Analysis Reporting System
 RADARS,Rapid Data Retrieval System
 RAFO,Research and Find Out
 RAI,Resident Assessment Instrument
 RAID,Redundant Array of Independent Disk
-RAP,Ready Assessment Packages (Y2k)
-RAP,Request for Accelerated Payment
 RAP,Request for Anticipated Payment
 RAP,Resource Allocation Plan
 RAPS,Resident Assessment Protocol System
@@ -3657,7 +3391,6 @@ RCL,Routine Cost Limit
 RCP,Reasonable Charge Pricing
 RCP,Report of Contractor Performance (ACER replacement)
 RCSRS,Resource Cost Reporting System
-RCT,Randomized Clinical Trials
 RCT,Registered Care Technologist
 RCT,Religious Compensatory Time
 RD&E,"Research, Demonstration and Evaluation"
@@ -3690,10 +3423,8 @@ RESDAC,Research Data Assistance Center
 RETAP,Regular Transcript Selection and Attainment Pass (SSA)
 REVS,Recipient Eligibility Verification System (Mass. DPW)
 REXX,Restructured Extended Executor Language
-RFA,Reason for Assessment
 RFA,Regulatory Flexibility Act (5USC 601612)
 RFA,Request for Applications
-RFC,(Treasury) Regional Financial Center
 RFC,Request for Comment
 RFC,Request for Contract
 RFI,Request for Information
@@ -3701,7 +3432,6 @@ RFP,Request for Proposal
 RFQ,Request for Quotation
 RGT,Requirements Gathering Techniques
 RH,Rural Hospital
-RHC,Rural Health Center
 RHC,Rural Health Claim
 RHC,Rural Health Clinic
 RHHI,Regional Home Health Intermediary
@@ -3728,8 +3458,6 @@ RMF,Resource Measurement Facility (software)
 RMFA,Restricted Medicare Fraud Alert
 RMP,Resource Management Plan
 RMRP,Regional Medical Review Policy
-RMS,Record Management System
-RMS,Regional Management System
 RMS,Requirements Management System
 RMS,Retention Management System
 RMT,Requirements Management Team
@@ -3783,7 +3511,6 @@ RSDI,"Retirement, Survivors, and Disability Insurance"
 RSF,Renal Services Facility
 RSI,Retirement and Survivors Insurance
 RSVP,Retired Senior Volunteer Project
-RT,Record Type
 RT,Recovery Team
 RT,Respiratory Therapy
 RTC,Reports to Congress
@@ -3794,7 +3521,6 @@ RTI,Return to Intermediary
 RTN,Routing and Transit Number
 RTP,Request for Technical Proposal
 RTP,Return To Provider (or Plan)
-RTS,Recovery Tracking System
 RTS,Request to Send
 RTS,Return (tapes) to Stock
 RUG,Resource Utilization Group
@@ -3805,26 +3531,17 @@ RVS,Relative Value Scale (or Schedule)
 RVU,Relative Value Unit
 RWJF,Robert Wood Johnson Foundation
 RZIP,Residence ZIP (Code)
+S&E,Staff and Equipment
 S-MIME,Secure Multipurpose Internet Mail Extensions
 S/HMO,Social Health Maintenance Organization
 S/W,Software
-S&C,Survey and Certification
-S&E,Staff and Equipment
-S&I,Supervision and Interpretation
-SA,Scheduled Allowance
-SA,Security Administrator
-SA,Settlement Agreement
-SA,State Agency
-SA,State Assessment
-SA,Supplemental Agreement
 SA,Systems Administrator
 SA,Systems Analyst
-SA-CMM,Software Acquisition Capability Maturity Model
 SA&A,Security Assessment and Authorization
+SA-CMM,Software Acquisition Capability Maturity Model
 SAC,Special Action Code
 SAC,Statistical Analysis Contractor
 SACP,(AHA) Society for Ambulatory Care Professionals
-SAD,Self Administered Drug
 SAD,Service Area Directory (SSA)
 SAD,Simultaneous Accretion/Deletion
 SADBUS,Small And Disadvantaged Business Utilization Specialist
@@ -3839,10 +3556,8 @@ SALT,Suspensions and Life Terminations System (MBR)
 SAM,Software Asset Management
 SAMHSA,Substance Abuse and Mental Health Services Administration
 SAMHSA,Supstance Abuse and Mental Health Services Administration
-SAR,(microfilm) Storage and Retrieval unit
 SAR,Safeguard Activity Report
 SAR,Service Area Report
-SAS,Single Award Schedules
 SAS,Statement of Auditing Standards
 SAS,Statistical Analysis System (software)
 SAS/C,SAS Compiler
@@ -3893,7 +3608,6 @@ SDLC,System Development Lifecycle
 SDM,Shared Decision Making
 SDM,Structured Development (or Design) Methodology
 SDM/S,Systems Development Methodology / Structured
-SDO,Servicing District Office (SSA)
 SDO,Standards Development Organization
 SDO,System Design Overview
 SDP,Service Delivery Point
@@ -3942,8 +3656,6 @@ SHC,Select Health Care
 SHCC,State Health Coordinating Council
 SHI,Supplemental Health Insurance
 SHINE,Serving Health Information Needs of Elders
-SHIP,(AFGE) Supplemental Health Insurance Plan
-SHIP,(Medicare) Supplemental Health Insurance Programs
 SHIP,Senior Health Insurance Program
 SHIP,State Health Insurance Assistance Program
 SHMO,Social Health Maintenance Organization
@@ -3953,11 +3665,9 @@ SHRM,Society for Human Resource Management
 SHS,Society for Health Systems
 SHSIP,State Health System Innovation Plan
 SHTIP,Secure Hyper Text Transfer Protocol
-SI,Single Intermediary
 SI,System Integrator
 SI,Systems Inventory
 SIA,Security Impact Analysis
-SIC,"(DOL, BLS) Standard Industrial Classification"
 SIC,Special Indicator Code
 SIC,State Insurance Commission
 SICE,Social Insurance Claims Examiner
@@ -4001,7 +3711,6 @@ SME,Subject Matter Expert
 SMF,System Measurement Facility
 SMF,Systems Management Facility
 SMG,State Medicaid Group
-SMI,Standardized Medreview Instrument
 SMI,Supplementary Medical Insurance (Medicare Parts B and D)
 SMI,Supplementary Medical Insurance (Part B of Medicare)
 SMIB,Supplementary Medical Insurance (also Part B)
@@ -4012,9 +3721,6 @@ SMM,State Medicaid Manual
 SMP,System Modernization Program
 SMQC,System for Monitoring Quality of Care
 SMRF,State Medicaid Research Files (aka SMURF)
-SMS,Shared Maintenance System
-SMS,Storage Management System
-SMS,System Managed Software
 SMS,System Managed Storage
 SMS,Systems Management Specialist
 SMS/SPS,Shared Maintenance System / Shared Processing System
@@ -4044,7 +3750,6 @@ SOL,Solicitation
 SOM,SOBER Operating Month (DOE 1 or COM +1) (OBSOLETE)
 SOM,State Operations Manual
 SON,Submitting Office Number
-SOP,Standard Operating Procedure
 SOP,Status of Provider
 SOP,Style of Practice
 SOR,(Carrier) Section Operating Report
@@ -4055,8 +3760,6 @@ SORT,Seniors Organized to Restore Trust
 SOU,Statement of Understanding
 SOW,Scope of Work
 SOW,Statement of Work
-SP,Sample Persons
-SP,Special Project
 SP,Standard of Performance
 SP,Systems Performance
 SPA,State Plan Amendment
@@ -4092,10 +3795,9 @@ SPO,Servicing Personnel Office
 SPOC,Single Point of Contact
 SPOE,Secure Point of Entry
 SPOF,Single Point of Failure
-SPP,Select Provider Program
 SPP,SMI Premium Penalty
+SPP,Select Provider Program
 SPPS,State Plan Profile System
-SPR,Safeguard Procedures Report
 SPR,Standard Paper Remittances
 SPR,Systems Performance Review
 SPRDRS,SPR Data Reporting System
@@ -4106,27 +3808,20 @@ SQA,Software Quality Assurance
 SQIG,Supplier Quality Information Group
 SQL,Structured Query Language
 SQRD,Monthly Sequential Read Program (HDSQRD)
-SR,Service Representative (SSA)
 SR,Service Request
 SR,Systems Requirements
 SRA,Significant Regulatory Actions
 SRA,Systems Research Associates
 SRC,Status Report Coordinator
-SRD,Systems Requirements Definition
 SRD,Systems Requirements Design
 SRD,Systems Requirements Document
 SRMC,Statistical Report Medicaid Services
 SRMS,Statistical Report (HCFA2082) on Medicaid Services System
 SRRD,Senior Risk Reduction Demonstration
 SRS,Social and Rehabilitation Service
-SS,Sequential Search
-SS,Shared Systems
-SS,Short Stay
 SS,Social Security
 SS,Standard Systems
 SS1,Selective Signaling (Equipment)
-SSA,Social Security Act
-SSA,Social Security Administration
 SSA,State Survey Agency
 SSA,Systems Security Assessment
 SSACCS,SSA Claims Control System
@@ -4152,7 +3847,6 @@ SSN,Social Security Number
 SSO,Social Security Office (also DO)
 SSO,Systems Security Officer
 SSOP,Second Surgical Opinion Program
-SSP,Shared Savings Program
 SSP,State Supplemental Payments
 SSP,System Security Plan
 SSPM,System Security Plan Methodology
@@ -4165,7 +3859,6 @@ SSSGS,Similarly Sized Subscriber Groups
 SST,Supplemental Systems Test
 STAG,System Technical Advisory Group (aka STAG)
 STAPE,Short Format State Magnetic Tape File (HIM)
-STAR,(Medicaid) Systems Test for Alternative Reimbursement
 STAR,Standard Administrative Reporting
 STAR,System for Tracking Audit and Reimbursement
 STD,Short-Term Disability
@@ -4193,9 +3886,9 @@ SW/T,Structured Walkthrough
 SWAT,Specialized Work Action Team
 SWBI,State Welfare Buy-In Enrollment Profile System
 SWICA,State Wage Information Collection Agency
-T-MSIS,Transformed Medicaid Statistical Information System
 T&D,Training and Development
 T&M,Time and Materials
+T-MSIS,Transformed Medicaid Statistical Information System
 T1,Title I of the Social Security Act (Grants for Old-Age Assistance and Medical Assistance for Aged)
 T10,Title X of the Social Security Act (Aid to the Blind)
 T14,Title XIV of the Social Security Act (Grants to States for Aid to the Disabled
@@ -4230,9 +3923,6 @@ TBO,Transaction Back Out
 TBP,To Be Provided
 TBP,Transit Benefit Program
 TBSR,Total Business Systems Review
-TC,Technical Component
-TC,Technology Component
-TC,Telecommunications
 TC,Total Cost
 TC,Transaction Code
 TCAB,Technical Computer Advisory Board
@@ -4258,10 +3948,10 @@ TEDH,Third Party Entitlement Date for Hospital Insurance
 TEDS,Third Party Entitlement Date for Supplementary Medical Insurance
 TEFRA,Tax Equity and Fiscal Responsibility Act of 1982 (PL97248)
 TENS,Transcutaneous Electrical Nerve Stimulation
-TEP,Technical Evaluation Panel
 TEP,Technical Experts Panel
 TEP,Transfer Enrollment Period
 TERMID,Terminal ID
+TEST,test
 TFCS,Treasury Financial Communications Systems (aka FEDWIRE)
 TFSS,Task Force for Standard Systems
 TH,Teaching Hospital
@@ -4277,16 +3967,6 @@ TINA,Truth In Negotiations Act
 TIPPS,Test of Intermediary Prospective Payment System
 TIS,Technical (or Technology) Information Services
 TIS,Therapeutic Intervention Scoring (System)
-Title I,Grants to States for old age assistance and medical assistance for the aged
-Title II,"Federal old age, survivors and disability insurance benefits (OASDI)"
-Title IV,Grants to States for aid and services to needy famlies with children (AFDC)
-Title X,Grants to States for aid to the blind (AB)
-Title XIV,Grants to States for aid to the permanently and totally disabled (DI)
-Title XIX,Grants to States for medical assistance programs (MAA)(Medicaid)
-Title XVI,"Grants to States for aid to the aged, blind and disabled (ABD) and Supplemental Security Income (SSI)"
-Title XVIII,Health Insurance (Medicare)
-Title XX,State operated home health care entitlement program
-Title XXI,State Child Health Programs
 TLC,Target Life Cycle
 TLC,Total Location Counter
 TLS,Transport Layer Security
@@ -4304,9 +3984,6 @@ TO,Task Order
 TO,Training Office
 TOB,Type of Bill
 TOC,Transition Office Contact
-TOP,Trade Opportunities Program
-TOP,Transitional Outpatient Payment
-TOP,Treasury Offset Program
 TOP,Triple Option Package
 TOP,Type of Provider
 TOPR,Type of Program Record
@@ -4384,8 +4061,18 @@ TWA,Transaction Work Area
 TWG,Technical Work Group
 TWP,Trial Work Period
 TWWIA,Ticket to Work and Work Incentives Act of 1999
-U/I,Unit of Issue
+Title I,Grants to States for old age assistance and medical assistance for the aged
+Title II,"Federal old age, survivors and disability insurance benefits (OASDI)"
+Title IV,Grants to States for aid and services to needy famlies with children (AFDC)
+Title X,Grants to States for aid to the blind (AB)
+Title XIV,Grants to States for aid to the permanently and totally disabled (DI)
+Title XIX,Grants to States for medical assistance programs (MAA)(Medicaid)
+Title XVI,"Grants to States for aid to the aged, blind and disabled (ABD) and Supplemental Security Income (SSI)"
+Title XVIII,Health Insurance (Medicare)
+Title XX,State operated home health care entitlement program
+Title XXI,State Child Health Programs
 U&C,Usual and Customary
+U/I,Unit of Issue
 UA,Unit and Analysis
 UAMCDS,Uniform Ambulatory Medical Care Data Set
 UAT,User Acceptance Testing
@@ -4508,8 +4195,8 @@ VOS,Virtual Operating System
 VPAC,Variable Premium Amount Collectable
 VPD,Variable Per Diem
 VPN,Virtual Private Network
-VPS,Volume Performance Standard
 VPS,VTAM Printer Support System
+VPS,Volume Performance Standard
 VRA,Veteran's Readjustment Appointment
 VRR,Validation Readiness Review
 VRU,Ventilator Rehabilitation Unit
@@ -4546,8 +4233,8 @@ WIC,"Special Supplemental Nutrition Program for Women, Infants, and Children"
 WIC,Western Integrity Center
 WINDEX,Widow (and Widowers) Indexing
 WIP,Work in Progress
-WIS,Warehouse Inventory System
 WIS,WWMCCS Information System
+WIS,Warehouse Inventory System
 WITS,Washington Interagency Telecommunications System
 WIX,Wage Index System
 WKFL,Workflow (Customer Inquiry System)
@@ -4594,6 +4281,9 @@ ZI,Zonal Index
 ZIP,Zone Improvement Plan (ZIP Codes)
 ZIP+4,9 digit ZIP Code Plan
 ZO,Zero Overpricing
-zONE,Opportunity to Network and Engage (System)
 ZPIC,Zone Program Integrity Contractor
 ZST,Zone Standard Time
+eCQM,Electronic Care Quality Measure
+eDFR,Expanded Data Feedback Reporting
+eRPT,Electronic Retroactive Processing Transmission
+zONE,Opportunity to Network and Engage (System)
